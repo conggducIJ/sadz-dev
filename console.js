@@ -8,4 +8,4 @@ function main() {
 }
 
 main()
-console.log(main)
+//console.log(main)
