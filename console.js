@@ -7,3 +7,5 @@ function main(){
 main()
 
 // console.log("main")
+
+console.log("I'm a Vietnamse Girl")
