@@ -8,4 +8,4 @@ main()
 
 // console.log("main")
 
-console.log("I'm a Vietnamse Girl")
+console.log("I'm a")
